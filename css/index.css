@@ -1,0 +1,88 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	width: 100%;
+	margin: 0 auto;
+	background: #EEEEEE;
+}
+
+i {
+	margin-right: 5px;
+}
+.top-header {
+	background: rgb(7,17,27);
+	text-align: center;
+	height: 40px;
+	color: #F0F0F0;
+}
+.logo-icon {
+	font-size: 18px;
+	line-height: 40px;
+}
+.call {
+	font-size: 16px;
+	line-height: 40px;
+}
+.call2 {
+	font-size: 14px;
+}
+.visible-xs {
+	text-align: center;
+}
+.about-right {
+	text-align: right;
+}
+.banner-img {
+	background: #FFF;
+}
+.banner-img img {
+	width: 100%;
+}
+.company-duang {
+	background: #FFF;
+	padding-bottom: 5px;
+}
+.com-dv {
+    position: relative;
+    margin-left: 45px;
+}
+.com-dv p {
+	font-size: 14px;
+}
+.icon-company {
+	position: absolute;
+    display: block;
+    width: 50px;
+    height: 50px;
+    left: 5px;
+    top: 25px;
+}
+.icon-company-d1 {
+	 background: url(../img/company_index.png) no-repeat 0 -250px;
+ }
+ .icon-company-d2 {
+ 	 background: url(../img/company_index.png) no-repeat 0 -301px;
+  }
+  .icon-company-d3 {
+  	 background: url(../img/company_index.png) no-repeat 0 -352px;
+   }
+   .c-ti {
+	   font-size: 18px;
+	   font-weight: 600;
+   }
+   .process-title,.process-h3 {
+	   text-align: center;
+	   font-weight: 600;
+   }
+   .process-p {
+	   text-align: center;
+   }
+   .process-ul {
+	   background: #fff;
+   }
+   footer {
+	   padding: 20px 0;
+	   background: #000;
+   }
