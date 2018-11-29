@@ -86,3 +86,24 @@ i {
 	   padding: 20px 0;
 	   background: #000;
    }
+	 .busin-li {
+		 text-align: center;
+	 }
+	 .busin-li {
+		 background: #fff;
+		 padding: 5px 10px;
+		 height: 170px;
+		 border: 1px solid #ccc;
+	 }
+	 .busin-li:hover {
+		 border: 1px solid #005FCC;
+	 }
+	 .mian-busin a:hover{
+		 text-decoration: none;
+	 }
+	 .busin-buttom p {
+		 position: absolute;
+		 bottom: 5px;
+		 left: 42%;
+		 text-decoration: underline;
+	 }
