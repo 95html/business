@@ -59,15 +59,6 @@ i {
     left: 5px;
     top: 25px;
 }
-.icon-company-d1 {
-	 background: url(../img/company_index.png) no-repeat 0 -250px;
- }
- .icon-company-d2 {
- 	 background: url(../img/company_index.png) no-repeat 0 -301px;
-  }
-  .icon-company-d3 {
-  	 background: url(../img/company_index.png) no-repeat 0 -352px;
-   }
    .c-ti {
 	   font-size: 18px;
 	   font-weight: 600;
@@ -87,16 +78,23 @@ i {
 	   background: #000;
    }
 	 .busin-li {
-		 text-align: center;
-	 }
-	 .busin-li {
 		 background: #fff;
 		 padding: 5px 10px;
-		 height: 170px;
+		 height: 300px;
 		 border: 1px solid #ccc;
+		 text-align: center;
+
+	 }
+	 .busin-icon {
+		 height: 40%;
+		 display:block;
+	 }
+	 .busin-icon img {
+		 margin-top:15%;
 	 }
 	 .busin-li:hover {
 		 border: 1px solid #005FCC;
+		 transition: all .4s ease;
 	 }
 	 .mian-busin a:hover{
 		 text-decoration: none;
