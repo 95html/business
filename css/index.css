@@ -73,10 +73,7 @@ i {
    .process-ul {
 	   background: #fff;
    }
-   footer {
-	   padding: 20px 0;
-	   background: #000;
-   }
+
 	 .busin-li {
 		 background: #fff;
 		 padding: 5px 10px;
@@ -104,4 +101,32 @@ i {
 		 bottom: 5px;
 		 left: 42%;
 		 text-decoration: underline;
+	 }
+	 .qqfix {
+		 position: fixed;
+		 bottom: 100px;
+		 right: 50px;
+	 }
+	 .webbottom {
+		 position: fixed;
+		 bottom: 0;
+		 text-align: center;
+		 height: 40px;
+		 line-height: 40px;
+		 background: red;
+		 width: 100%;
+		
+	 }
+	 .webbottom a {
+		 display: inline-block;
+		 color: #FFFFFF;
+		 padding:0 15%;
+	 }
+	 .tell-left {
+		 border-left: 1px solid #fff;
+	 }
+	 footer {
+	 	padding: 10px 0;
+	 	background: #000;
+	 	margin-bottom: 40px;
 	 }
